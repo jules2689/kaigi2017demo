@@ -1,12 +1,13 @@
 # Ruby Kaigi 2017 Demo code
 
+**Presentation**: https://jnadeau.ca/kaigi.html
+**Overview**: http://rubykaigi.org/2017/presentations/jules2689.html
+
 To use:
 
 1. Clone the repo
 2. `bundle install`
 3. Run the demos with `bundle exec ruby demos/<demo>`
-
-Presentation: https://jnadeau.ca/kaigi.html
 
 Demos
 ---
