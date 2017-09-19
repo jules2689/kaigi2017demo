@@ -11,7 +11,7 @@ Presentation: https://jnadeau.ca/kaigi.html
 Demos
 ---
 
-1. Timing Helpers
+### 1. Timing Helpers
 
 Timing helpers can be very simple, but very powerful.
 
@@ -26,7 +26,7 @@ In this example, wrapping a block of code with this method will allow you to tra
   end
 ```
 
-2. Aggregate Helper
+### 2. Aggregate Helper
 
 Similar to the timing helper, this will aggregate many calls together (for example many calls to a method would be split up in the timing helper example)
 
@@ -66,7 +66,7 @@ Similar to the timing helper, this will aggregate many calls together (for examp
  end
 ```
 
-3. Gantt Charts
+### 3. Gantt Charts
 
 Aggregating the times was a great step to improve usability of the code.
 
